@@ -1,0 +1,13 @@
+C:\Users\Alumno\Desktop\tp 6\tp6\ejercicio_2\bin\Debug\ejercicio_2.exe.config
+C:\Users\Alumno\Desktop\tp 6\tp6\ejercicio_2\bin\Debug\ejercicio_2.exe
+C:\Users\Alumno\Desktop\tp 6\tp6\ejercicio_2\bin\Debug\ejercicio_2.pdb
+C:\Users\Alumno\Desktop\tp 6\tp6\ejercicio_2\obj\Debug\ejercicio_2.exe
+C:\Users\Alumno\Desktop\tp 6\tp6\ejercicio_2\obj\Debug\ejercicio_2.pdb
+C:\Users\Alumno\Desktop\tp 6\tp6\ejercicio_2\obj\Debug\ejercicio_2.csprojResolveAssemblyReference.cache
+F:\tp6\ejercicio_2\bin\Debug\ejercicio_2.exe.config
+F:\tp6\ejercicio_2\bin\Debug\ejercicio_2.exe
+F:\tp6\ejercicio_2\bin\Debug\ejercicio_2.pdb
+F:\tp6\ejercicio_2\obj\Debug\ejercicio_2.csprojAssemblyReference.cache
+F:\tp6\ejercicio_2\obj\Debug\ejercicio_2.csproj.CoreCompileInputs.cache
+F:\tp6\ejercicio_2\obj\Debug\ejercicio_2.exe
+F:\tp6\ejercicio_2\obj\Debug\ejercicio_2.pdb

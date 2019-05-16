@@ -1,0 +1,7 @@
+F:\tp6\ejercicio 4\bin\Debug\ejercicio 4.exe.config
+F:\tp6\ejercicio 4\bin\Debug\ejercicio 4.exe
+F:\tp6\ejercicio 4\bin\Debug\ejercicio 4.pdb
+F:\tp6\ejercicio 4\obj\Debug\ejercicio 4.csprojAssemblyReference.cache
+F:\tp6\ejercicio 4\obj\Debug\ejercicio 4.csproj.CoreCompileInputs.cache
+F:\tp6\ejercicio 4\obj\Debug\ejercicio 4.exe
+F:\tp6\ejercicio 4\obj\Debug\ejercicio 4.pdb
